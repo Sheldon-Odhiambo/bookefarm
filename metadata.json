@@ -1,0 +1,9 @@
+
+{
+  "name": "Bookefarm Primary School",
+  "description": "A warm, professional, and child-friendly primary school website featuring admissions, academics, and a virtual assistant for parent inquiries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
