@@ -1,20 +1,43 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Bookefarm Primary School Website
 
-This contains everything you need to run your app locally.
+This project is a modern, responsive website developed and owned by **Sheldon Odhiambo Ouma**.  
+It is designed to showcase Bookefarm Primary School’s vision, values, and academic offerings while providing parents and stakeholders with clear and accessible information.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+The website focuses on simplicity, performance, and a child-friendly yet professional design aligned with the school motto:
 
-## Run Locally
+**“Learn. Strive. Excel.”**
 
-**Prerequisites:**  Node.js
+---
 
+## 🚀 Project Overview
+
+- Fully responsive primary school website  
+- Clean and accessible UI  
+- Optimized for performance and usability  
+- Built using modern web technologies  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React + Vite  
+- **Styling:** CSS  
+- **Version Control:** Git & GitHub  
+- **Deployment:** Can be hosted on Netlify, Vercel, or shared hosting  
+
+---
+
+## ▶️ Run Locally
+
+### Prerequisites
+- **Node.js** (v18+ recommended)
+
+### Steps
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```bash
+   npm install
